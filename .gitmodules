@@ -1,3 +1,3 @@
 [submodule "EmptyRepo"]
 	path = EmptyRepo
-    url = ssh://-oProxyCommand=konsole
+    url = ssh://-oProxyCommand=konsole/test
